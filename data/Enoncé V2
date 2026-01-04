@@ -1,0 +1,154 @@
+
+📝 Exercices d’analyse & comparaisons — Survey Marriage
+🔹 Exercice 1 — Statistiques descriptives de base
+
+Quel est :
+
+l’âge moyen des répondants ? 
+29.1875
+
+l’âge médian ?
+ 26.0
+
+Quelle est la répartition (%) des genres ?
+Woman    29
+Man      19
+
+Quel est le pourcentage de personnes mariées vs non mariées ?
+
+🔹 Exercice 2 — Genre & mariage
+
+Quel est le pourcentage de femmes mariées ?
+12
+
+Quel est le pourcentage d’hommes mariés ?
+3
+
+    Compare l’importance moyenne du mariage (1–5) entre hommes et femmes.
+
+👉 (bar chart ou boxplot)
+
+🔹 Exercice 3 — Femmes mariées & tâches ménagères (exemple que tu as donné)
+
+Parmi les femmes mariées, quel est le pourcentage qui pensent que :
+
+les tâches ménagères doivent être partagées équitablement ?
+
+
+Compare cette opinion avec :
+
+les femmes non mariées
+==> DONE
+
+les hommes mariés
+==> DONE
+
+
+👉 (grouped bar chart)
+
+🔹 Exercice 4 — Travail & modèle financier
+
+Quel est le modèle financier le plus choisi globalement ?
+
+Parmi les personnes qui pensent qu’il est important que les deux partenaires travaillent, quel modèle financier est le plus populaire ?
+
+Y a-t-il une différence entre hommes et femmes concernant :
+
+“Split bills (both work)” ?
+
+🔹 Exercice 5 — Âge & opinions
+
+L’importance du mariage augmente-t-elle avec l’âge ?
+
+(corrélation simple ou scatter plot)
+
+Compare l’âge moyen des personnes qui donnent une importance :
+
+faible (1–2)
+
+moyenne (3)
+
+élevée (4–5)
+
+🔹 Exercice 6 — Enfants & mariage
+
+Quel pourcentage des répondants veulent des enfants ?
+
+Parmi ceux qui veulent des enfants :
+
+quel est le nombre idéal le plus fréquent ?
+
+Les personnes mariées veulent-elles en moyenne plus d’enfants que les non mariées ?
+
+🔹 Exercice 7 — Défis du mariage
+
+Quel est le plus grand défi cité par la majorité des répondants ?
+
+Ce défi est-il le même pour :
+
+les personnes mariées ?
+
+les personnes non mariées ?
+
+Y a-t-il une différence entre hommes et femmes concernant le défi principal ?
+
+🔹 Exercice 8 — Réseaux sociaux & vie privée
+
+Quelle est la perception générale de l’impact des réseaux sociaux sur le mariage ?
+
+Les jeunes (≤ 25 ans) perçoivent-ils un impact plus fort que les plus âgés ?
+
+Compare cette perception entre hommes et femmes.
+
+🔹 Exercice 9 — Qualités du partenaire (multi-choix)
+
+Quelles sont les 3 qualités les plus citées chez un partenaire ?
+
+Les femmes citent-elles plus souvent :
+
+respect & kindness
+que les hommes ?
+
+Les personnes qui valorisent la religion/valeurs ont-elles une vision différente du mariage ?
+
+🔹 Exercice 10 — Facteur clé du mariage réussi
+
+Quel est le facteur jugé le plus important pour un mariage réussi ?
+
+Ce facteur change-t-il selon :
+
+le genre ?
+
+le statut marital ?
+
+Les personnes qui valorisent la communication donnent-elles aussi plus d’importance à la transparence financière ?
+
+🎯 Exercice final — Conclusion
+
+En te basant sur au moins 3 analyses, rédige une conclusion générale sur :
+
+la vision du mariage chez les jeunes de ta génération.
+
+💡 Astuce prof / examen
+
+Si tu arrives à :
+
+filtrer (df[df["Gender"]=="Woman"])
+
+calculer des pourcentages
+
+comparer des groupes
+
+interpréter sans sur-généraliser
+
+👉 c’est un excellent travail data analyst junior.
+
+👉 Prochaine étape possible :
+
+je te donne le code pandas/seaborn pour chaque exercice
+
+ou on en choisit 5 clés et on les traite à fond
+
+ou je te fais un corrigé type
+
+Dis-moi ce que tu veux faire maintenant 👌
